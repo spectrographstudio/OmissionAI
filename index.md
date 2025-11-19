@@ -10,7 +10,6 @@
   box-shadow: 0 0 25px rgba(255, 255, 255, 0.05);
   text-align: center;
 ">
-
   <img src="36c17869-8912-4f37-bdb2-f58864f6f363.png"
        alt="Your Avatar"
        style="width: 90px; height: 90px; border-radius: 50%; margin-bottom: 15px; border: 2px solid #333;" />
